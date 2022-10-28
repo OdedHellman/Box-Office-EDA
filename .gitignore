@@ -154,3 +154,4 @@ cython_debug/
 .DS_Store
 .gitattributes
 .vscode/
+Data/boxoffice_after_eda.csv
