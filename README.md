@@ -1,2 +1,2 @@
-# box_office_etl
- ETL assignment for BoxOffice (Movies-ETL)
+# Box Office EDA 
+ EDA assignment for BoxOffice (Movies-EDA)
